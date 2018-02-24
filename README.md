@@ -27,3 +27,7 @@ You can then access the application through the following URL:
 http://localhost/pos/
 ~~~
 
+SEE STEP BY STEP THIS VIDEOS 
+------------
+https://www.youtube.com/playlist?list=PLV_bNLLuWOTfuWg8PNcok7ZlrAV3HAS2o
+
